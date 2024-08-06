@@ -1,3 +1,4 @@
+![logo](https://leanexcelsolutions.com/wp-content/uploads/2022/11/Customer-Analytics-Dashboard-in-Excel-1.png)
 <h1 align="center">Hi 👋, I'm Mukesh Yadav</h1>
 <h3 align="center">A passionate Data Analyst And Data Science from India</h3>
 <img align="right" alt="Analyst" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg"
